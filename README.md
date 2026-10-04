@@ -13,7 +13,7 @@
 ## 下载与安装
 
 1. 进入 [Releases](https://github.com/glenn-JohnSen/panda-editor-release/releases) 页
-2. 下载 `panda_setup2-0-0-3-x86.exe`
+2. 下载 `panda_setup2-0-0-4-x86.exe`
 3. 双击运行，按向导完成安装（Win32 版，Win10 / Win11 均可）
 
 > 安装包未做数字签名。首次运行如弹出 Windows SmartScreen 蓝色提示，
@@ -23,6 +23,7 @@
 
 | 版本 | 日期 | 说明 |
 |---|---|---|
+| 2.0.0.4 | 2026-10-05 | 修复默认字体导致的字符间缝隙（[EOF]、n9e 等显示松散）；默认字体改宋体 |
 | 2.0.0.3 | 2026-10-05 | 修复中文系统安装后界面为英文；安装语言即应用语言；向导双语（简体中文/English） |
 | 2.0.0.1 | 2026-10-04 | 首个版本：基于 Sakura Editor v2.4.3，内置简体中文化 |
 
